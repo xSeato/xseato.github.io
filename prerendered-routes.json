@@ -1,8 +1,0 @@
-{
-  "routes": {
-    "/": {},
-    "/calculator": {},
-    "/contact": {},
-    "/websocket": {}
-  }
-}
